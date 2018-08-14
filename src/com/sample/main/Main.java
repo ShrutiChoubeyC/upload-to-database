@@ -40,7 +40,6 @@ public class Main {
 			serviceImpl.insertToDb(generatedCSV_Files);
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
